@@ -1,0 +1,6 @@
+﻿  Main.c
+U:\Semestre 2\Objet\TD3\TD3\Main.c(34,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+U:\Semestre 2\Objet\TD3\TD3\Main.c(99,11): warning C4101: 't2' : variable locale non référencée
+U:\Semestre 2\Objet\TD3\TD3\Main.c(101,19): warning C4101: 'nbdecases' : variable locale non référencée
+U:\Semestre 2\Objet\TD3\TD3\Main.c(101,9): warning C4101: 'nbdecars' : variable locale non référencée
+U:\Semestre 2\Objet\TD3\TD3\Main.c(100,11): warning C4101: 'res' : variable locale non référencée
